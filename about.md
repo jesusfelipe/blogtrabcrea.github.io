@@ -10,6 +10,6 @@ Para más información
 
 Vamos a ir publicando diferentes ejemplos de sentencias, esperamos que les guste
 
-### Contact me
+### Contacto
 
 [jesus.felipe@gmail.com](mailto:jesus.felipe@gmail.com)
